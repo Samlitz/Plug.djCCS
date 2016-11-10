@@ -10,7 +10,7 @@
         "allowSmartVote":       true,
         "allowEmotes":          true,
         "allowShowingMehs":     true,
-        "forceSmartVote":       false
+        "forceSmartVote":       false,
     },
     "ccc": {
         "admin":                "#42A5DC",
@@ -165,7 +165,7 @@
         "!rules": 0,
         "!counters": 100,
         "!slotscounters": 100,
-        "!statscounters": 100
+        "!statscounters": 100,
     },
    
 }

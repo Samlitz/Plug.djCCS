@@ -1,3 +1,7 @@
+<?php 
+header('Access-Control-Allow-Origin: https://plug.dj'); 
+header('Content-Type: text/json'); 
+?>
 {
     "room":                     "House Of Bass",
     "author":                   "NaN0S3c0nD",
@@ -10,7 +14,7 @@
         "allowSmartVote":       true,
         "allowEmotes":          true,
         "allowShowingMehs":     true,
-        "forceSmartVote":       false,
+        "forceSmartVote":       false
     },
     "ccc": {
         "admin":                "#42A5DC",
@@ -165,11 +169,8 @@
         "!rules": 0,
         "!counters": 100,
         "!slotscounters": 100,
-        "!statscounters": 100,
+        "!statscounters": 100
     },
    
 }
-<?php 
-header('Access-Control-Allow-Origin: https://plug.dj'); 
-header('Content-Type: text/json'); 
-?>
+
